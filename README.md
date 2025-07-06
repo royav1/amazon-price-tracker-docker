@@ -10,13 +10,13 @@ docker-compose up
 ## 🐋 Prebuilt Docker Images
 This project pulls from the following public images on Docker Hub:
 
-* Frontend: r300887882/amazon-tracker-frontend
+* Frontend: royav1/amazon-tracker-frontend
 Pull directly:
-docker pull r300887882/amazon-tracker-frontend:latest
+docker pull royav1/amazon-tracker-frontend:latest
 
-* Backend: r300887882/amazon-tracker-backend
+* Backend: royav1/amazon-tracker-backend
 Pull directly:
-docker pull r300887882/amazon-tracker-backend:latest
+docker pull royav1/amazon-tracker-backend:latest
 
 🌐 App Overview
 * Backend (Django): Handles user registration, Amazon product scraping, watchlists, target price alerts, and automation.
